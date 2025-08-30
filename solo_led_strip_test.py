@@ -1,3 +1,3 @@
 import time
-import board
+import GPIO
 import neopixel
