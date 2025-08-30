@@ -1,1 +1,3 @@
-#hi_again
+import time
+import board
+import neopixel
