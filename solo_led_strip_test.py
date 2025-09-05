@@ -1,4 +1,4 @@
 import time
-import GPIO
+import board
 import neopixel
 #balls
